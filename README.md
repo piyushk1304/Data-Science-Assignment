@@ -6,7 +6,7 @@ This project performs customer segmentation using clustering techniques on a dat
 ## Contents
 - `Customers.csv`: Contains customer demographic information.
 - `Transactions.csv`: Contains transaction details for each customer.
-- `Customer_Segmentation.ipynb`: Jupyter Notebook containing the code for data preparation, clustering, and visualization.
+- `EDA.ipynb`: Jupyter Notebook containing the code for data preparation, clustering, and visualization.
 - `Lookalike.csv`: Output file containing lookalike recommendations (if applicable).
 - `README.md`: This README file.
 
