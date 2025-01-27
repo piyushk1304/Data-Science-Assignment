@@ -24,6 +24,7 @@ To run this project, you will need the following Python packages:
 The analysis is conducted using two datasets:
 
 - **Customers.csv**: Contains demographic information such as CustomerID, Name, SignupDate, and Region.
+- **Products.csv:** Contains product information such as ProductID, ProductName, Category, and Price.
 - **Transactions.csv**: Contains transaction details such as TransactionID, CustomerID, ProductID, TransactionDate, Quantity, and TotalValue.
 
 ### Feature Engineering
