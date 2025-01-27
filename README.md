@@ -18,10 +18,8 @@ To run this project, you will need the following Python packages:
 - `seaborn`
 - `scikit-learn`
 
-You can install the required packages using pip:
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+
 ## Data Preparation
 The analysis is conducted using two datasets:
 
@@ -52,7 +50,7 @@ Several visualizations are created to illustrate the clustering results:
 - 3D Scatter Plot of Clusters
 
 ## Running the Code
-To run the analysis, open the `Customer_Segmentation.ipynb` Jupyter Notebook in your preferred environment (e.g., Jupyter Notebook, JupyterLab, or Google Colab). Execute the cells sequentially to perform data preparation, clustering, and visualization.
+To run the analysis, open the files in Jupyter Notebook in your preferred environment (e.g., Jupyter Notebook, JupyterLab, or Google Colab). Execute the cells sequentially to perform data preparation, clustering, and visualization.
 
 ## Conclusion
 This project successfully identifies distinct customer segments based on their transaction behavior and demographic information. The clustering metrics indicate that the segments are reasonably well-defined, and the visualizations provide valuable insights into the characteristics of each segment.
